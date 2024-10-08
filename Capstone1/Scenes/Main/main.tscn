@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cbornr7kqb4u"]
+
+[ext_resource type="Script" path="res://Capstone1/Scenes/Main/MainScene.gd" id="1_mt1ks"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_mt1ks")

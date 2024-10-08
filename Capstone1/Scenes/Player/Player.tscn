@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bolj5arsysylq"]
+
+[ext_resource type="Script" path="res://Capstone1/Scenes/Player/Player.gd" id="1_ikbk7"]
+
+[node name="Player" type="Node2D"]
+script = ExtResource("1_ikbk7")
